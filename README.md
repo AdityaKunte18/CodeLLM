@@ -11,8 +11,7 @@
 4. ##### Code Translation
    - LLMs will translate code from one language to another
 5. ##### Semantic Code Search
-
-6- LLMs can help developers find code snippets that meet certain functional requirements, even if the exact keywords are not used in the query.
+   - LLMs can help developers find code snippets that meet certain functional requirements, even if the exact keywords are not used in the query.
 
 # <u>*Fine-Tuning versus Prefix-Tuning*</u>
 
